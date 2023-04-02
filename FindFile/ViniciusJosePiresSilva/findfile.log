@@ -1,0 +1,15 @@
+Arquivo findfile.log criado em 02/04/2023 às 11:23.
+
+String pesquisada: "tes"
+
+- Arquivos de texto pesquisados
+
+1. tes.log
+Quantidade = 6
+Linhas = 55, 169, 188, 248, 284, 466
+
+2. tes.txt
+Quantidade = 12
+Linhas = 7, 10, 13, 41, 94, 105, 107, 112, 166, 494, 496
+
+
