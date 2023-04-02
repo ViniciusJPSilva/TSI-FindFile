@@ -24,6 +24,12 @@ c:\> findfile “Mozilla Firefox” “C:\Program Files\Mozilla Firefox”
 ![image](https://user-images.githubusercontent.com/81810017/229361105-25127773-e0c9-4302-b62e-4b80fd140b72.png)
 
 <hr>
+<h3>Saída no arquivo de Log</h3>
+<h4>Ao terminar a busca da string o programa findfile deve criar um arquivo de log no diretório corrente para registrar o resultado da pesquisa.</h4>
+
+![image](https://user-images.githubusercontent.com/81810017/229361360-8e5e57cc-1b58-44c3-be65-2af7e33c4782.png)
+
+<hr>
 
 <h3>Diagrama de Classes</h3>
 
